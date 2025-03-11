@@ -3,6 +3,6 @@ Public placeholder for my parallel processing projects available upon request du
 
 The work includes several algorithms, including jacobi, collatz, and MIS (maximum independent set) which recieve inputs in the form of large graphical files.
 
-These algorithms are parellelized using MPI, omp, pthreads, cuda, and a finally hybrid versions to reach a further level of optimization.
+These algorithms are parallelized using MPI, omp, pthreads, cuda, and a finally hybrid versions to reach a further level of optimization.
 
 I ran these by connecting to Frontera GPU's at TACC via SSH in a secure linux terminal. 
